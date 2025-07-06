@@ -27,7 +27,6 @@ Cosmo is a complete website for a beauty and skincare center, featuring service 
 - 💅 Services page with detailed offerings  
 - 📸 Image gallery for showcasing beauty treatments  
 - 📆 Appointment request/contact form  
-- 📍 Google Maps integration  
 - 🔒 Basic form validation and user-friendly navigation
 
 ## Tech Stack
