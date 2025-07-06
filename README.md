@@ -28,6 +28,7 @@ Cosmo is a complete website for a beauty and skincare center, featuring service 
 - 📸 Image gallery for showcasing beauty treatments  
 - 📆 Appointment request/contact form  
 - 🔒 Basic form validation and user-friendly navigation
+-  Admin dashboard for appointment management
 
 ## Tech Stack
 
@@ -100,7 +101,6 @@ https://github.com/user-attachments/assets/b8e6fa42-f986-43d9-a3da-490cd6d35f81
 
 ## Roadmap
 
-- [ ] Add admin dashboard for appointment management
 - [ ] Integrate email notifications
 - [ ] Improve accessibility (WCAG compliance)
 - [ ] Add client-side form validation enhancements
