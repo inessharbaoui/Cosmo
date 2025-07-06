@@ -85,9 +85,18 @@ Make sure you have the following installed:
 - Submit a contact or appointment request
 - Experience the layout and functionality of a real-world salon website
 
-## Screenshots
+## Demo
 
-*(Add screenshots of your homepage, services page, and contact form here)*
+
+
+https://github.com/user-attachments/assets/fb9607fb-d895-4b5c-a802-abf7450cd92a
+
+https://github.com/user-attachments/assets/bde16275-575b-4201-a14d-023a9d20577f
+
+https://github.com/user-attachments/assets/b8e6fa42-f986-43d9-a3da-490cd6d35f81
+
+
+
 
 ## Roadmap
 
